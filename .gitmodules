@@ -1,0 +1,6 @@
+[submodule "apt-frontend"]
+	path = apt-frontend
+	url = https://github.com/lucky-developer/apt-frontend
+[submodule "apt-backend"]
+	path = apt-backend
+	url = https://github.com/lucky-developer/apt-backend
